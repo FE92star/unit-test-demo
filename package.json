@@ -3,8 +3,12 @@
   "version": "0.0.1",
   "description": "to run unit test",
   "main": "index.js",
+  "keywords": [
+    "test",
+    "Jest"
+  ],
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "author": "",
   "license": "ISC",
